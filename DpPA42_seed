@@ -1,0 +1,16 @@
+Package: BSgenome.Dpulex.PA42
+Title: Full genome sequence for Daphnia pulex PA42
+Description: Full draft genome sequence for Daphnia pulex (clone PA42)
+Version: 1.0
+organism: Daphnia pulex PA42
+species: Daphnia
+provider: PA42
+provider_version: dpulexPA
+release_date: May. 2015
+release_name: Daphnia pulex PA42 draft assembly v1
+source_url: NA
+organism_biocview: dpulexPA
+BSgenomeObjname: dpulexPA
+seqfiles_suffix: .fa
+seqs_srcdir: extdata/PA42_seqs
+seqnames: names(fasta.info("extdata/PA42_assembly_1.0.fa"))
